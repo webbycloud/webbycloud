@@ -1018,7 +1018,7 @@ pre:after {
  /* toogler */
 
  #docsify-darklight-theme {
-	position: absolute;
+	position: relative;
 	right: 10px;
     top: 50px;
 	width: 25px;
