@@ -1,11 +1,14 @@
 <!-- docs/_sidebar.md -->
 
 
-* [Início](./)
+* [HOME](./)
 
-* [Tutoriais](./tutorials/index)
-  * [Configuração de Outlook](./tutorias/Configuração_de_Outlook/index)
-  * [Cloud](./tutorias/cloud/index)
-  * [Java](./tutorias/java/index)
+* [Tutorials](./tutorials/index)
+  * [Tomcat](./tutorials/tomcat/index)
+  * [Cloud](./tutorials/cloud/index)
+  * [Java](./tutorials/java/index)
 
-* [Contato](./contact/index)
+* [About](./about/index)
+
+* [Contact](./contact/index)
+
