@@ -1,6 +1,6 @@
-![logo](https://www.grupowebby.com.br/wp-content/uploads/2021/12/logo_webby_internet_horizotal_png-1536x387.png)
+![logo](https://webbyinternet.com.br/images/logo.svg)
 
-# FAQ webbymail
+# FAQ
 
 > O FAQ completo da Webby para dúvidas em seu webbymail.
 

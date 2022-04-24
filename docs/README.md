@@ -1,4 +1,4 @@
-# FAQ webbycloud
+# FAQ  
 
 > FAQ `completo` para o webbymail.
 
