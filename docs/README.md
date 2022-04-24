@@ -1,6 +1,6 @@
-# Headline
+# FAQ
 
-> An `awesome` project.
+> FAQ `completo` para o webbymail.
 
 Lorem ipsum dolor sit amet, gravida semper suspendisse ipsum, nam maecenas curabitur. Volutpat orci maecenas dui elementum. Massa at sollicitudin nec erat, sit libero dolor suspendisse amet, adipiscing dolor sed massa. Fermentum lectus. Est dignissim ac tempor, accusantium hac elit massa dictumst soluta
 

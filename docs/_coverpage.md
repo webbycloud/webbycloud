@@ -1,12 +1,11 @@
-![logo](https://cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/icons/docsify-darklight-theme-logo.png)
+![logo](https://webbyinternet.com.br/images/logo.svg)
 
-# docsify-darklight-theme-starter
+# FAQ webbymail
 
-> A magical documentation site generator with dark and light mode switch.
+> O FAQ completo da Webby para dúvidas em seu webbymail.
 
-- Themes are customizable based on your color preferences.
-- Themes are remembered and retrieved from local storage.
-- Redesigned search box.
+- Perguntas frequentes respondidas.
+- tutorial de configuração em seu Outlook.
 
-[Preview](https://boopathikumar018.github.io/docsify-darklight-theme)
-[Getting Started](#headline)
+[Preview](https://webbyinternet.com.br/)
+[Getting Started](#FAQ)
