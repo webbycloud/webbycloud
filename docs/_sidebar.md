@@ -1,3 +1,3 @@
-- Getting started
+- Começar
 
   - [Quick Start](quickstart.md)

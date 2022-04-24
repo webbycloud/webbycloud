@@ -1,4 +1,4 @@
-![logo](https://webbyinternet.com.br/images/logo.svg)
+![logo](https://webbyinternet.com.br/images/logo-200-white.png)
 
 # FAQ webbymail
 
@@ -7,5 +7,5 @@
 - Perguntas frequentes respondidas.
 - tutorial de configuração em seu Outlook.
 
-[Preview](https://webbyinternet.com.br/)
-[Getting Started](#FAQ)
+[Assine já!](https://webbyinternet.com.br/)
+[Começar](#FAQ)
