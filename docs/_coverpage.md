@@ -8,4 +8,4 @@
 - tutorial de configuração em seu Outlook.
 
 [Assine já!](https://webbyinternet.com.br/)
-[Começar](#faq-webbymail)
+[Começar](https://webbycloud.github.io/webbycloud/#/?id=faq-webbymail)
