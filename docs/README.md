@@ -1,4 +1,4 @@
-# FAQ webbymail
+# WEBBYMAIL
 
 > FAQ `completo` para o webbymail.
 
