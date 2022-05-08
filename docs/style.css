@@ -373,7 +373,7 @@ body.sticky .sidebar-toggle {
 }
 
 .content {
-	padding-top: 60px;
+	padding-top: 0px;
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -504,6 +504,9 @@ body.close .content {
 }
 
 @media screen and (max-width:768px) {
+	.docsify-darklight-theme {
+		left: 350px;
+	}
 	.github-corner,
 	.sidebar,
 	.sidebar-toggle {
@@ -524,6 +527,7 @@ body.close .content {
 		transition: transform .25s ease-out
 	}
 	.content {
+		top: 100px;
 		left: 0;
 		max-width: 100vw;
 		position: static;
@@ -565,8 +569,8 @@ body.close .content {
 
 	#docsify-darklight-theme {
 		position: absolute;
-		left: 10px;
-		top: 15px;
+		left: 350px;
+		top: 35px;
 		width: 25px;
 		height: 25px;
 		background-repeat: no-repeat;
@@ -1020,7 +1024,7 @@ pre:after {
  #docsify-darklight-theme {
 	position: absolute;
 	right: 10px;
-    top: 45px;
+    top: 35px;
 	width: 25px;
 	height: 25px;
 	background-repeat: no-repeat;

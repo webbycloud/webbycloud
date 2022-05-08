@@ -2,17 +2,24 @@
 
 > FAQ `completo` para o webbymail.
 
-Lorem ipsum dolor sit amet, gravida semper suspendisse ipsum, nam maecenas curabitur. Volutpat orci maecenas dui elementum. Massa at sollicitudin nec erat, sit libero dolor suspendisse amet, adipiscing dolor sed massa. Fermentum lectus. Est dignissim ac tempor, accusantium hac elit massa dictumst soluta
+Olá Cliente WeBBY!
 
-## Libero dictumst mauris
+Neste FAQ separamos os principais erros que podem ocasionar falhas no recebimento e envio de e-mails. Confira em cada tópico o que pode gerar a situação indicada e o que fazer:
 
-Tempus etiam, justo nullam vel eros et. Conubia integer. Amet elit nulla, eu tortor fugit pede arcu wisi, elit maecenas commodo integer et vitae nonummy. 
+## Como Configurar Outlook
 
+Se alguma configuração estiver incorreta, é possível que haja problemas de envio e recebimento dos e-mails. Siga o passo-a-passo a baixo para corrigir sua conta de e-mail no Outlook.
 
-```bash
-    Lorem Ipsum
-```
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2225%;
+ padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE1_DKkjwE&#x2F;watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAE1_DKkjwE&#x2F;watch?utm_content=DAE1_DKkjwE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Configurar Outlook</a> de Danton Galasse
 
-Curabitur amet sed voluptas convallis, urna sodales vivamus dui id minim eget, dapibus nostra dignissim, vestibulum mauris a tortor morbi lobortis eu, felis odio. Eu ligula taciti cras, faucibus ac vel quis donec sodales. Lacinia euismod sed semper donec. Magna aliquam sed non, vestibulum cursus sed ut vivamus felis porttitor, vestibulum nibh augue a pede, vehicula integer ut nunc proin. 
+> **Atenção**
+Senhas fracas irão gerar erros de autenticação LMTP. Mantenha a segurança de sua conta, utilize senhas fortes.
 
-Et diam integer euismod semper pede sapien, massa orci vel, lorem porttitor quam in orci amet, hymenaeos ultrices in. Urna ipsum pellentesque pretium quis, interdum ante commodo nullam eu tristique, aliquam nec velit nisl in, integer elementum ac recusandae nibh sit eu. Id libero lobortis sed quis. Luctus dapibus malesuada erat duis dolor pede, orci ut justo, diam enim id proin mi.
+## Como Configurar Outlook2
