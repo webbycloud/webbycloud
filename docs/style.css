@@ -269,7 +269,7 @@ main.hidden {
 	bottom: 0;
 	left: 0;
 	transition: transform .25s ease-out;
-	width: 300px;
+	width: 270px;
 	z-index: 20
 }
 
@@ -505,7 +505,7 @@ body.close .content {
 
 @media screen and (max-width:768px) {
 	.docsify-darklight-theme {
-		left: 300px;
+		left: 270px;
 	}
 	.github-corner,
 	.sidebar,
